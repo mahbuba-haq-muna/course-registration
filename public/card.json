@@ -9,7 +9,7 @@
     },
     {
       "id": 2,
-      "course_name": "C++ Programming Masterclass",
+      "course_name": "C++ Programming",
       "image_url": "https://i.ibb.co/s3v77St/Rectangle-2-4.png",
       "course_credit": 4,
       "price": 250,
@@ -17,7 +17,7 @@
     },
     {
       "id": 3,
-      "course_name": "Web Development with HTML & CSS",
+      "course_name": "Web Development",
       "image_url": "https://i.ibb.co/L9Vvcqq/programming-background-collage.jpg",
       "course_credit": 2,
       "price": 150,

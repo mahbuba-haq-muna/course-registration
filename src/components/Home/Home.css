@@ -1,16 +1,20 @@
 .card{
-    width: 280px;
+    width: 250px;
     height: 440px;
     padding: 8px;
     background-color: #ffffff;
+}
+.container{
+    display: flex;
 }
 .card-container h2{
     text-align: center;
 }
 
 .photo{
-    width: 280px;
+    width: 250px;
     border-radius: 10px;
+    height: 150px;
 }
 .price-credit{
     display: flex;
@@ -22,4 +26,13 @@
     background: #2F80ED; 
     width: 100%;
     color: wheat;
+}
+
+.card-container{
+    width: 70%;
+}
+.allCards{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
 }
