@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "course_name": "Introduction to Python",
+      "image_url": "https://i.ibb.co/ZJv51cg/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg",
+      "course_credit": 3,
+      "price": 200,
+      "course_details": "Learn the fundamentals of Python programming, including syntax, data types, and control structures."
+    },
+    {
+      "id": 2,
+      "course_name": "C++ Programming Masterclass",
+      "image_url": "https://i.ibb.co/s3v77St/Rectangle-2-4.png",
+      "course_credit": 4,
+      "price": 250,
+      "course_details": "Master the C++ programming language, from basics to advanced topics, with hands-on projects."
+    },
+    {
+      "id": 3,
+      "course_name": "Web Development with HTML & CSS",
+      "image_url": "https://i.ibb.co/L9Vvcqq/programming-background-collage.jpg",
+      "course_credit": 2,
+      "price": 150,
+      "course_details": "Build modern websites from scratch using HTML and CSS. Includes responsive design techniques."
+    },
+    {
+      "id": 4,
+      "course_name": "Java for Beginners",
+      "image_url": "https://i.ibb.co/hM0WrKq/html-system-website-concept.jpg",
+      "course_credit": 3,
+      "price": 200,
+      "course_details": "Get started with Java programming. Cover basics, object-oriented concepts, and Java SE."
+    },
+    {
+      "id": 5,
+      "course_name": "Data Science with Python",
+      "image_url": "https://i.ibb.co/ZTpt3TH/python-for-data-science.jpg",
+      "course_credit": 4,
+      "price": 300,
+      "course_details": "Learn data analysis, visualization, and machine learning using Python libraries like Pandas and Scikit-Learn."
+    },
+    {
+      "id": 6,
+      "course_name": "C# Game Development",
+      "image_url": "https://i.ibb.co/3BdHYLL/game.jpg",
+      "course_credit": 5,
+      "price": 350,
+      "course_details": "Create 2D and 3D games using C# and the Unity game engine. Includes physics and animation."
+    },
+    {
+      "id": 7,
+      "course_name": "JavaScript for Frontend Development",
+      "image_url": "https://i.ibb.co/4K42043/js.jpg",
+      "course_credit": 3,
+      "price": 200,
+      "course_details": "Build interactive and dynamic web applications with JavaScript, DOM manipulation, and AJAX."
+    },
+    {
+      "id": 8,
+      "course_name": "Linux System Administration",
+      "image_url": "https://i.ibb.co/YPNMZzB/5d8dd7a40ef690769d10a7dd-Linux-System-Administrator.jpg",
+      "course_credit": 4,
+      "price": 250,
+      "course_details": "Learn to manage and maintain Linux servers, including user management, security, and scripting."
+    },
+    {
+      "id": 9,
+      "course_name": "Android App Development",
+      "image_url": "https://i.ibb.co/kQcXXSV/app.jpg",
+      "course_credit": 4,
+      "price": 300,
+      "course_details": "Develop Android apps using Java or Kotlin. Covers UI design, APIs, and publishing on Google Play."
+    }
+  ]
