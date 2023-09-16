@@ -1,3 +1,12 @@
-.container{
-    background-color: aqua;
+li{
+    list-style: none;
+}
+.add-course{
+    padding: 15px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.remaining-credit{
+    color: #2F80ED;
 }

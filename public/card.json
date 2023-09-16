@@ -3,7 +3,7 @@
       "id": 1,
       "course_name": "Introduction to Python",
       "image_url": "https://i.ibb.co/ZJv51cg/hitesh-choudhary-D9-Zow2-REm8-U-unsplash.jpg",
-      "course_credit": 3,
+      "course_credit": 5,
       "price": 200,
       "course_details": "Learn the fundamentals of Python programming, including syntax, data types, and control structures."
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "course_name": "Web Development",
       "image_url": "https://i.ibb.co/L9Vvcqq/programming-background-collage.jpg",
-      "course_credit": 2,
+      "course_credit": 4,
       "price": 150,
       "course_details": "Build modern websites from scratch using HTML and CSS. Includes responsive design techniques."
     },
@@ -27,7 +27,7 @@
       "id": 4,
       "course_name": "Java for Beginners",
       "image_url": "https://i.ibb.co/hM0WrKq/html-system-website-concept.jpg",
-      "course_credit": 3,
+      "course_credit": 5,
       "price": 200,
       "course_details": "Get started with Java programming. Cover basics, object-oriented concepts, and Java SE."
     },
@@ -67,7 +67,7 @@
       "id": 9,
       "course_name": "Android App Development",
       "image_url": "https://i.ibb.co/kQcXXSV/app.jpg",
-      "course_credit": 4,
+      "course_credit": 5,
       "price": 300,
       "course_details": "Develop Android apps using Java or Kotlin. Covers UI design, APIs, and publishing on Google Play."
     }
